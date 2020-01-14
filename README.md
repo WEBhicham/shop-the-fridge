@@ -27,7 +27,8 @@ Tired of going to the grocery store and not remembering if your milk is about to
 - [ ] Backend
   - JS
   - Go
-  - C#
+  - C
+  - Rust
   
 - [ ] Frontend
   - Angular
